@@ -24,4 +24,4 @@
 
 ## ✏️ Autores ***
 
-Feito com 💚 por [Lucas](https://www.linkedin.com/in/lucas-de-souza-benedito-343b85b6), [Ingrid](https://www.linkedin.com/in/ingrid-aquino-88a8b9147/), [Gabriel](https://www.linkedin.com/in/gabriel-gomes-641950163/), [Felipe](https://www.linkedin.com/in/paulo-felipe-fagundes-barbosa-26b11b243/), [Victor](https://www.linkedin.com/in/victor-hugo-pires-takahashi/), 
+Feito com 💚 por [Lucas](https://www.linkedin.com/in/lucas-de-souza-benedito-343b85b6), [Ingrid](https://www.linkedin.com/in/ingrid-aquino-88a8b9147/), [Gabriel](https://www.linkedin.com/in/gabriel-gomes-641950163/), [Felipe](https://www.linkedin.com/in/paulo-felipe-fagundes-barbosa-26b11b243/), [Victor](https://www.linkedin.com/in/victor-hugo-pires-takahashi/),  [Mayara](https://www.linkedin.com/in/victor-hugo-pires-takahashi/) & [Sthefany]().
