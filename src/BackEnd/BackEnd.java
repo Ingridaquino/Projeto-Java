@@ -1,5 +1,9 @@
 package BackEnd;
 
+import Menu.TryMenu;
+
+import java.util.Scanner;
+
 public class BackEnd {
 
     public void Backtext() {
@@ -40,6 +44,29 @@ public class BackEnd {
         System.out.println("* ASP.NET Core REST APIs");
         System.out.println("* Node.js com Express");
 
+        menuzinho();
     }
 
+    public void menuzinho() {
+
+        Scanner entrada = new Scanner(System.in);
+
+        TryMenu menu = new TryMenu();
+
+
+        System.out.println();
+        System.out.print(" ° 1- Voltar ao menu | ");
+        System.out.print(" ° 0- Sair  \n");
+        int num = entrada.nextInt();
+
+
+        switch (num) {
+            case 1:
+                menu.listMenu();
+                break;
+            case 0:
+                break;
+        }
+
+    }
 }

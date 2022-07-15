@@ -1,5 +1,9 @@
 package SoftSkills;
 
+import Menu.TryMenu;
+
+import java.util.Scanner;
+
 public class SoftSkills {
 
     public  void SkillText(){
@@ -45,5 +49,28 @@ public class SoftSkills {
 
         System.out.println();
 
+        menuzinho();
+    }
+
+    public void menuzinho() {
+
+        Scanner entrada = new Scanner(System.in);
+
+        TryMenu menu = new TryMenu();
+
+
+        System.out.println();
+        System.out.print(" ° 1- Voltar ao menu | ");
+        System.out.print(" ° 0- Sair  \n");
+        int num = entrada.nextInt();
+
+
+        switch (num){
+            case 1:
+                menu.listMenu();
+                break;
+            case 0:
+                break;
+        }
     }
 }
