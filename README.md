@@ -3,7 +3,7 @@
 
 ![LOGOEASYCODE](https://user-images.githubusercontent.com/62892046/179288005-e2046ffb-f74b-430d-bf3a-d554dfc60f7f.png)
 
-##👩‍💻 Durante o desenvolvimento deste projeto, pude praticar:
+## 👩‍💻 Durante o desenvolvimento deste projeto, pude praticar:
 
 - Poo
 - Laços Condicionais
@@ -20,4 +20,4 @@
 
 ## ✏️ Autores ***
 
-Feito com 💚 por [Lucas](https://www.linkedin.com/in/lucas-de-souza-benedito-343b85b6), [Ingrid](https://www.linkedin.com/in/ingrid-aquino-88a8b9147/)
+Feito com 💚 por [Lucas](https://www.linkedin.com/in/lucas-de-souza-benedito-343b85b6), [Ingrid](https://www.linkedin.com/in/ingrid-aquino-88a8b9147/), [Gabriel](https://www.linkedin.com/in/gabriel-gomes-641950163/), [Felipe](https://www.linkedin.com/in/paulo-felipe-fagundes-barbosa-26b11b243/), [Victor](https://www.linkedin.com/in/victor-hugo-pires-takahashi/), 
